@@ -105,9 +105,14 @@ Medium product importance orders were most frequent.
 Nearly 60% of shipments reached late, highlighting logistics inefficiencies.
 
 📂 Repository Structure
+
+
 ├── task4_sql_queries.sql     # All SQL queries
+
 ├── task4_sql_outputs.xlsx    # Output tables of queries
+
 ├── README.md                 # Project documentation
+
 └── Ecommerce Shipping Data.csv (optional dataset file)
 
 🚀 How to Run
